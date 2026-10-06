@@ -1,0 +1,13 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, python-brace-format
+msgctxt "checkout"
+msgid "Hello {name}, total {amount:.2f}"
+msgstr "Total {amount:.2f}, bonjour {name}"
+
+#, python-format
+msgid "%d file"
+msgid_plural "%d files"
+msgstr[0] "%d fichier"
+msgstr[1] "%d fichiers"
